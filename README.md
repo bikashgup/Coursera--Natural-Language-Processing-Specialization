@@ -3,8 +3,7 @@
 There are four courses included in this specialization course. Here, I have  added the asssignments involved in the respective courses. This course helped me to develop my skill in the field of NLP. Through these courses, I have learned a lot of things related to NLP and experienced different projects related to NLP which are mentioned below in the form of assignments.
 
 **NOTE**: 
-
-    Please, do not copy the code if you are performing the assignments realted to any of these courses. You can take references from here but don't copy paste it.
+- Please, do not copy the code if you are performing the assignments realted to any of these courses. You can take references from here but don't copy paste it.
 
 ## Courses
  
