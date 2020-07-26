@@ -12,10 +12,14 @@ There are four courses included in this specialization course. Here, I have  add
 
 ### Natural Language Processing with Classification and Vector Spaces
 
-#### Week 1
-#### Week 2
-#### Week 3
-#### Week 4
+#### Week 1: Autocorrect
+
+1. Lecture notebook: [Building the vocabulary](./NLP-with-Probabilistic-Models/Week1/utf-8''NLP_C2_W1_lecture_nb_01.ipynb)
+
+
+#### Week 2: Part of Speech Tagging and Hidden Markov Models
+#### Week 3: Autocomplete and Language Models
+#### Week 4: Word embeddings with neural networks
 
 ### Natural Language Processing with Probabilistic Models
 
