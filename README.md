@@ -17,6 +17,8 @@ There are four courses included in this specialization course. Here, I have  add
 
 2. Lecture notebook: [Candidates from edits](./NLP-with-Probabilistic-Models/Week1/utf-8''NLP_C2_W1_lecture_nb_02.ipynb)
 
+3. Programming Assignment: [Autocorrect](./NLP-with-Probabilistic-Models/Week1/utf-8''C2_W1_Assignment.ipynb)
+
 
 #### Week 2: Part of Speech Tagging and Hidden Markov Models
 #### Week 3: Autocomplete and Language Models
