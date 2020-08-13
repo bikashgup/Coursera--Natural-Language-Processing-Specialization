@@ -9,10 +9,10 @@ There are four courses included in this specialization course. Here, I have  add
  
  Here, the assignemnts in the courses are done in Week wise division. So, in the courses sub-headings you can find the link of the assignments in the week-wise subheadings. The four courses along with the week-wise assignments links are:
 
-### Natural Language Processing with Classification and Vector Spaces
+### 1. Natural Language Processing with Classification and Vector Spaces
 
 
-### [Natural Language Processing with Probabilistic Models](./NLP-with-Probabilistic-Models)
+### 2. [Natural Language Processing with Probabilistic Models](./NLP-with-Probabilistic-Models)
 
 #### Week 1: [Autocorrect](./NLP-with-Probabilistic-Models/Week1)
 
@@ -43,6 +43,6 @@ There are four courses included in this specialization course. Here, I have  add
 
 #### Week 4: [Word embeddings with neural networks](./NLP-with-Probabilistic-Models/Week4)
 
-### Natural Language Processing with Sequence Models
+### 3. Natural Language Processing with Sequence Models
 
-### Natural Language Processing with Attention Models
+### 4. Natural Language Processing with Attention Models
